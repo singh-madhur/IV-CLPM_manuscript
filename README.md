@@ -3,7 +3,7 @@
 This is a companion repository for the code used for simulations and analyses in the manuscript:
 
 
-Singh, M., Verhulst, B., Vinh, P., Zhou, Y., Castro-de-Araujo, L. F. S., Maes, H. H., Dolan, C. V., and Neale, M. C. (Under Review). Integrating Cross-Lagged Panel Models with Instrumental Variables to Extend the Temporal Generalizability of Causal Inference.
+Singh, M., Verhulst, B., Vinh, P., Zhou, Y., Castro-de-Araujo, L. F. S., Maes, H. H., Dolan, C. V., and Neale, M. C. (Under Review). Integrating Cross-Lagged Panel Models with Instrumental Variables to Extend the Temporal Generalizability of Causal Inference. _PsyArXiv_. https://doi.org/10.31234/osf.io/ap3mq
 
 
 Abstract: 
