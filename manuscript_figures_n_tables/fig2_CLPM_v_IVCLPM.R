@@ -1,6 +1,4 @@
 ## Figure: CLPM vs. IV-CLPM
-## Madhur Singh
-## Aug 30, 2022
 
 ## Contrast the lagged effect with the three causal paths in IV-CLPM
 ## and how they change with varying time intervals

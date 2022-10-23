@@ -1,6 +1,4 @@
 ## Bidirectional vs. Unidirectional IV-CLPM, Given Unidirectional Causal Effects
-## Madhur Singh
-## Aug 30, 2022
 
 ## Aim: Compare the LRT statistics in bidirectional and unidirectional models
 
@@ -14,7 +12,6 @@ resfile <- 'resfile_bidir_v_unidir_IV-CLPM.dta'  # output file for the results
 # PART I. MODEL FITTING  ---------------------------------------------------------
 
 # a function for power calc based on the central and noncentral chisq distributions
-# credit: Conor V. Dolan
 getchipow <- function(alpha,df,Tval) {
   ca <- qchisq(alpha,df,ncp=0,lower.tail=F)
   # critical value given alpha
@@ -222,7 +219,7 @@ for (idis in Tdis) {       # Panel Lag
   Smod <- S_[isel, isel]
   
   # check covariances 
-  if(bxy==max(bxys) & byx==max(byxs) & bx==max(bxs) & by==max(bys) & r_xy==max(rxys)) {
+  if(bxy==max(bxys) & byx==max(byxs) & bx==max(bxs) & by==max(bys) & r_xy==min(rxys)) {
     # covariances at the closest wave2
     if (idis == min(Tdis)) {
       MinDis <- paste("Shortest panel lag: Time lag =",idis)

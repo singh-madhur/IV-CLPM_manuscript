@@ -1,6 +1,4 @@
 ## Simulated Stationary Time Series
-## Madhur Singh
-## Aug 30, 2022
 
 ## Aim: Table to show stationary covariances through the time period used for model fitting.
 

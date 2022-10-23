@@ -1,6 +1,4 @@
 ## Figure: LRT in CLPM vs. IV-CLPM
-## Madhur Singh
-## Aug 30, 2022
 
 ## Contrast the multiple LRTs in IV-CLPM and the lagged effect LRT in CLPM.
 

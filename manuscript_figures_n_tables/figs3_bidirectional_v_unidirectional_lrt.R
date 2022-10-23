@@ -1,6 +1,4 @@
 ## Figure: Bidirectional vs Unidirectional IV-CLPM
-## Madhur Singh
-## Aug 30, 2022
 
 ## Contrast the LRTs in bidirectional and unidirectional IV-CLPM, given unidirectional causal effect in the true model.
 

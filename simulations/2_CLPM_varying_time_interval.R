@@ -1,6 +1,4 @@
 ## Classic CLPM with Varying Time Intervals
-## Madhur Singh
-## Aug 30, 2022
 
 ## Aim: Effect of Time Interval on Lagged/Distal Effects
 
@@ -19,7 +17,6 @@ resfile <- 'resfile_varyingLag_bidir_CLPM.dta'  # output file for the results
 # PART I. MODEL FITTING  ---------------------------------------------------------
 
 # a function for power calc based on the central and noncentral chisq distributions
-# credit: Conor V. Dolan
 getchipow <- function(alpha,df,Tval) {
   ca <- qchisq(alpha,df,ncp=0,lower.tail=F)
   # critical value given alpha

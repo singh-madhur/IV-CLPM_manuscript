@@ -1,6 +1,4 @@
 ## Figure: CLPM vs. IV-CLPM
-## Madhur Singh
-## Aug 30, 2022
 
 ## Aim: Examine how changes in the data-generating parameters impact
 ## the effect estimates in IV-CLPM and CLPM.

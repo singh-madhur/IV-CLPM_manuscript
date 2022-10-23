@@ -1,6 +1,4 @@
 ## Correlation of the residuals IV-CLPM with Varying Time intervals
-## Madhur Singh
-## Aug 30, 2022
 
 ## Simulate time-series with varying resid corr for 150 time points.
 ## Fit a series of IV-CLPM with 2 panels but increasing panel lag
@@ -17,7 +15,6 @@ resfile <- 'resfile_rescor_IV-CLPM.dta'  # output file for the results
 # PART I. MODEL FITTING  ---------------------------------------------------------
 
 # a function for power calc based on the central and noncentral chisq distributions
-# credit: Conor V. Dolan
 getchipow <- function(alpha,df,Tval) {
   ca <- qchisq(alpha,df,ncp=0,lower.tail=F)
   # critical value given alpha
