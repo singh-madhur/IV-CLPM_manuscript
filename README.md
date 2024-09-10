@@ -2,7 +2,7 @@
 
 This is a companion repository for the code used for simulations and analyses in the manuscript:
 
-Singh, M., Verhulst, B., Vinh, P., Zhou, Y., Castro-de-Araujo, L. F. S., Hottenga, J.-J., Pool R., de Geus E. J. C., Vink, J. M., Boomsma D. I., Maes H. H. M., Dolan C.V. & Neale, M. C. (2023). Using Instrumental Variables to Measure Causation over Time in Cross-Lagged Panel Models. _Multivariate Behavioral Research, 59_(2), 342–370. https://doi.org/10.1080/00273171.2023.2283634
+Singh, M., Verhulst, B., Vinh, P., Zhou, Y., Castro-de-Araujo, L. F. S., Hottenga, J.-J., Pool R., de Geus E. J. C., Vink, J. M., Boomsma D. I., Maes H. H. M., Dolan C.V. & Neale, M. C. (2024). Using Instrumental Variables to Measure Causation over Time in Cross-Lagged Panel Models. _Multivariate Behavioral Research, 59_(2), 342–370. https://doi.org/10.1080/00273171.2023.2283634
 
 Abstract: 
 
